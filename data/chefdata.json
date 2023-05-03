@@ -1,51 +1,212 @@
 [
-    
+  {
+    "id": "1",
+    "img": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/07/18/Pictures/_fceeca9c-8a4c-11e8-a23e-bc16ac6b2c17.jpg",
+    "name": "Saransh Goila",
+    "recipes": "3",
+    "likes": "5000",
+    "bio":"Saransh Goila is a celebrity Indian chef, food journalist, TV show host and entrepreneur. He became the winner of the Food Food Maha Challenge and founded the popular restaurant chain “Goila Butter Chicken” in Mumbai",
+    "experience": "6 year",
+    "allrecipes": [
+      {
+        "id": "1",
+        "img_food": "https://static.toiimg.com/thumb/53505938.cms?imgsize=62981&width=800&height=800",
+        "name_food": "Fenugreek Rice Recipe",
+        "describe": "The aromas of fenugreek coupled with the heady taste of wine is the perfect romantic combination for a Valentines’ date night. Not only will the spices bring the palate alive, the addition of wine will enliven conversation and embolden love!",
+        "ingrediants": "basmati rice,butter,cherry tomatoes,olive oil,garlic,corn kernels,salt",
+        "rating": "5"
+      },
+      {
+        "id": "2",
+        "img_food": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/beetroot-halwa-recipe.jpg",
+        "name_food": "Beetroot Halwa Recipe",
+        "describe": "An unusual yet delicious dish, this Beetroot Halwa on Saffron Toast would totally change your perception about not so favourite beetroot! This simple recipe is so amazing that you’ll feel like having it all by yourself. It’s a perfect festival dessert to enjoy with your loved ones!",
+        "ingrediants": "ghee,water,almonds,chocolate,saffron,rabri,grated beetroot",
+        "rating": "5"
+      },
       { 
-        "id":"1",
-        "img":"https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/07/18/Pictures/_fceeca9c-8a4c-11e8-a23e-bc16ac6b2c17.jpg",
-        "name": "Saransh Goila",
-        "recipes":"3",
-        "likes":"5",
-        "experience": "Intermediate"
-      },
-      {
-        "id":"2",
-        "img":"https://static.toiimg.com/thumb.cms?msid=20600625&height=600&width=600",
-        "name": "ripudaman handa",
-        "likes":"5",
-        "experience": "Advanced",
-        "recipes":"4"
-      },
-      {
-        "id":"3",
-        "img":"https://pbs.twimg.com/media/EbbKACzXsAAsOKo.jpg",
-        "name":"Pawan Bisht",
-        "experience": "Beginner",
-        "likes":"5",
-        "recipes":"3"
-      },
-      {
-        "id":"4",
-        "name": "Ranveer Brar",
-        "img":"https://dc-cdn.s3-ap-southeast-1.amazonaws.com/b9d298ddd8744fc74577744e3a0644619891ce66-tc-img-preview.jpg",
-        "experience": "Beginner",
-        "likes":"60",
-        "recipes":"3"
-      },
-      {
-        "id":"5",
-        "img":"https://www.dailypioneer.com/uploads/2018/story/images/big/229384_Untitled-13.jpg",
-        "name": "Rakesh Sethi",
-        "experience": "Beginner",
-        "likes":"60",
-        "recipes":"4"
-      },
-      {
-        "id":"6",
-        "img":"https://www.greavesindia.co.uk/wp-content/uploads/2017/07/ShipraKhanna3.jpeg",
-        "name": "Shipra Khannai",
-        "experience": "Beginner",
-        "likes":"60",
-        "recipes":"5"
-      }
+      "id":"3",
+      "img_food":"https://www.yummyfoodrecipes.in/resources/picture/org/Ripe-Mango-Curry-Recipe.jpg",
+      "name_food": "Mango Curry Recipe",
+      "describe":"An interesting blend of sweet and spicy, this Mango Curry is one recipe you should not miss this summer! With the goodness of mango and the tangy taste, this curry recipe is best paired with hot steaming rice, and it’s so yummy that you’ll not stop licking your fingers!",
+      "ingrediants":"mango,turmeric,cumin,ghee,saffron,salt,Coconut milk",
+      "rating":"5"
+    }
+  ]
+},
+  {
+    "id": "2",
+    "img": "https://static.toiimg.com/thumb.cms?msid=20600625&height=600&width=600",
+    "name": "ripudaman handa",
+    "likes": "5",
+    "bio":"The winner of Master Chef Season 3, Ripu Daman Handa is a Delhi based gym trainer. He was the youngest of all the contestants in the show.",
+    "experience": "10 year",
+    "recipes": "4",
+    "allrecipes":[
+      { 
+      "id":"1",
+      "img_food":"https://itsnotcomplicatedrecipes.com/wp-content/uploads/2020/09/cchoc4.jpg",
+      "name_food":"Chilli Chocolate Recipe",
+      "describe":"Chilli Chocolate Fondue is a mouth-watering French recipe that you can prepare for occasions like game night and anniversary. If you are looking to impress someone special, then you must try this delectable dessert recipe and we are sure it wiill be loved instantly",
+      "ingrediants":"dark chocolate,dry ginger,cream,mixed fruits,made cake,chilli",
+      "rating":"4"
+    },
+    { 
+      "id":"2",
+      "img_food":"https://www.tastingtable.com/img/gallery/sweet-potato-chaat-recipe-indian/image-import.jpg",
+      "name_food":"Potato Chaat Recipe",
+      "describe":"Jalapeno Potato Chaat Cups is an Indian snack recipe served in canape cups spooned with a mixture made from potatoes, jalapenos, olive oil, celery ribs and white wine vinegar. These delightful cups are perfect for occasions like game nights, kitty parties and birthdays.",
+      "ingrediants":"peeled potato,vinegar,cream,olive oil, onion,black pepper",
+      "rating":"4.5"
+    },
+    { 
+      "id":"3",
+      "img_food":"https://www.saltysidedish.com/wp-content/uploads/2020/01/quinoa-chili-recipe.jpg",
+      "name_food":"Quinoa Chili Recipe",
+      "describe":"Quinoa is an excellent source of protein and fibre. Creamy and spicy, Quinoa Chili is a Mexican side dish recipe which is truly satisfying and delicious. With just 34 calories per tablespoon, this easy recipe is a bliss for chili lovers.",
+      "ingrediants":"quinoa,garlic,sour cream,olive oil, onion,black pepper,lemon juice",
+      "rating":"4"
+    }
+  ]
+},
+  {
+    "id": "3",
+    "img": "https://pbs.twimg.com/media/EbbKACzXsAAsOKo.jpg",
+    "name": "Pawan Bisht",
+    "experience": "8 year",
+    "bio":"Chef Pawan Bisht:- I have been working in this industry since 2007 and I think the industry has evolved a lot from what it was back then.",
+    "likes": "5",
+    "recipes": "3",
+    "allrecipes":[
+      { 
+      "id":"1",
+      "img_food":"https://www.savorynothings.com/wp-content/uploads/2021/04/chicken-quesadillas-image-sq-2.jpg",
+      "name_food":"Chicken Quesadilla Recipe",
+      "describe":"Quesadilla is a popular dish of the Mexican cuisine and consists of a tortilla filled with cheese, beans and sometimes meats and even vegetables. Here is a quesadilla recipe, which is filled chicken meat inside along with cheese, bell peppers and a melange of authentic Mexican spices",
+      "ingrediants":"chicken breasts,tortillas,butter,olive oil, onion, tomato,lime juice",
+      "rating":"4.6"
+    },
+    { 
+      "id":"2",
+      "img_food":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/jyothir/Marghi_na_Farcha__Parsi_Crispy_Fried_Chicken.jpg",
+      "name_food":"Chicken Farcha Recipe",
+      "describe":"A Parsi dish that you cannot afford to miss, Chicken Farcha, is something that will enchant your taste buds and take you to a world of lip smacking flavours. This is a special recipe which is prepared on the occasion of the Persian New Year (Nawruz).",
+      "ingrediants":"chicken boneless,egg,butter,bread crumbs, chilli powder, garlic paste,garam masala",
+      "rating":"4.8"
+    },
+    { 
+      "id":"3",
+      "img_food":"https://static.toiimg.com/thumb/70853741.cms?width=800&height=800&imgsize=901200",
+      "name_food":"Tingmo Hotdog Recipe",
+      "describe":"Have you ever heard of the word Tingmo? If not, then you are surely missing onto some spice and taste in your life. A Tingmo is a steamed bread in Tibetan cuisine and has a resemblance to Chinese flower rolls.",
+      "ingrediants":"purpose flour,water,refined oil,bacon,  cabbage,yeast,sausage",
+      "rating":"4.9"
+    }
+  ]
+},
+  {
+    "id": "4",
+    "name": "Ranveer Brar",
+    "img": "https://dc-cdn.s3-ap-southeast-1.amazonaws.com/b9d298ddd8744fc74577744e3a0644619891ce66-tc-img-preview.jpg",
+    "experience": "9 year",
+    "bio":"Ranveer Brar is an Indian celebrity chef, restaurateur, food columnist, author, and TV show judge. He has appeared as a judge in three seasons (seasons 4, 6 & 7) of the cooking reality TV show MasterChef India",
+    "likes": "60",
+    "recipes": "3",
+    "allrecipes":[
+      { 
+      "id":"1",
+      "img_food":"https://campcochocolates.com/wp-content/uploads/2020/02/chocolate-almond-rocks.jpg",
+      "name_food":"Rock Chocolate Recipe",
+      "describe":"Craving for some sweet dish but also worried about your health? Try this Corn Flakes Honey Almonds Rock Chocolate, which is super-delicious yet easy-to-make! You can prepare this dessert recipe in just 20 minutes and you will be amazed to know that it requires no extra cooking.",
+      "ingrediants":"cornflakes,flaked almonds,honey,dark chocolate,salt",
+      "rating":"4.7"
+    },
+    { 
+      "id":"2",
+      "img_food":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Pooja_Thakur/Mango_Kheer.jpg",
+      "name_food":"Mango Kheer Recipe",
+      "describe":"Kheer is one Indian dessert recipe that is loved by all. ,Several variations of kheer are available across the country and Mango and Wheat Kheer is one such dessert recipe that’ll give your taste buds a change with sweet and tangy flavours.",
+      "ingrediants":"butter,coconut,condensed milk,broken wheat,milk mango",
+      "rating":"4.9"
+    },
+    { 
+      "id":"3",
+      "img_food":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2003/10/16/3/tm1b24_fish_fry.jpg.rend.hgtvcom.616.462.suffix/1547589315824.jpeg",
+      "name_food":"Fish Fries Recipe",
+      "describe":"Oven Baked Amritsari Fish Fries is a delicious Punjabi recipe which is easy-to-make and can win anyone’s heart. Ideal for occasions like birthdays, dates and road trips, this fish recipe is made with fish fillets and a melange of Indian spices.",
+      "ingrediants":"fish fillets ,garlic paste,salt,chilli powder,crumbs",
+      "rating":"4.2"
+    }
+  ]
+},
+  {
+    "id": "5",
+    "img": "https://www.dailypioneer.com/uploads/2018/story/images/big/229384_Untitled-13.jpg",
+    "name": "Rakesh Sethi",
+    "experience": "12 year",
+    "likes": "60",
+    "recipes": "4",
+    "bio":"Sethi passed out from Institute of Hotel Management, Pusa in 1982 and began his culinary career as a Hotel corp of India unit chef.",
+    "allrecipes":[
+      { 
+      "id":"1",
+      "img_food":"https://static.toiimg.com/thumb/65487874.cms?imgsize=102497&width=800&height=800",
+      "name_food":"Moong Dal Recipe",
+      "describe":"Moong Dal Ka Shorba is a delicious dish that you can enjoy as an appetizer as well as a main course. You can easily prepare this gluten-free nutritious soup for your loved ones during the winter season. The key ingredient to this piping hot amazing shorba recipe is, the yellow split lentils.",
+      "ingrediants":"moong dal,butter,ginger,onion,lemon juice",
+      "rating":"4.4"
+    },
+    { 
+      "id":"2",
+      "img_food":"https://www.yummytummyaarthi.com/wp-content/uploads/2015/02/1-5.jpg",
+      "name_food":"Tawa Fish Recipe",
+      "describe":"Punjabi Tawa Fish is a very popular North Indian recipe that you can prepare for your loved ones on any occasion. This fish recipe is popularly enjoyed as an appetizer and is an apt dish for occasions like kitty party, potluck, and even a game night.",
+      "ingrediants":"rohu fish,chilli powder, rice flour,mustard oil,lemon juice",
+      "rating":"4.5"
+    },
+    { 
+      "id":"3",
+      "img_food":"https://dinnerthendessert.com/wp-content/uploads/2019/02/Mint-Chocolate-Cake.jpg",
+      "name_food":"Menthe Cake Recipe",
+      "describe":"Creme de Menthe Cake is a mouth-watering cake recipe that can be an ideal treat for the upcoming birthdays or anniversaries. This homemade cake is better than any bakery and can be baked in under 40 minutes.",
+      "ingrediants":"mascarpone cheese,food color,sugar,chocolate, flour,egg",
+      "rating":"4.6"
+    }
+  ]
+},
+  {
+    "id": "6",
+    "img": "https://www.greavesindia.co.uk/wp-content/uploads/2017/07/ShipraKhanna3.jpeg",
+    "name": "Shipra Khannai",
+    "experience": "6 year",
+    "bio":"Chef Shipra Khanna's age is 41 as of 2022. Chef Shipra Khanna's place of birth is Shimla, Himachal Pradesh, India. Chef Shipra Khanna's zodiac sign is Scorpio.",
+    "likes": "60",
+    "recipes": "5",
+    "allrecipes":[
+      { 
+      "id":"1",
+      "img_food":"https://i0.wp.com/15minmom.com/wp-content/uploads/2020/08/79D563A1-D6FB-4CF0-8776-7FDE0BC460B3.jpeg?fit=900%2C600&ssl=1",
+      "name_food":"Watermelon Juice Recipe",
+      "describe":"Watermelon Mint Juice is a refreshing drink that can double up as a delightful summer mocktail. If you are a lover of mocktails and sherbets that are light, this mint and watermelon drink is perfect for you.",
+      "ingrediants":"watermelon,ce cubes,sugar, ginger,water,sugar",
+      "rating":"4.7"
+    },
+    { 
+      "id":"2",
+      "img_food":"https://c.ndtvimg.com/2021-02/n83hk5gg_phirni_625x300_12_February_21.jpg",
+      "name_food":"Badam Phirn Recipe",
+      "describe":"Yearning for an interesting delicacy, but don't feel like going for sugar laden delights, then we have something delicious yet healthy for you! Going back to traditional delicacies is always a great idea, this Almond Phirni will give your taste buds a twist of taste and health.",
+      "ingrediants":"paste almonds,milk,sugar,basmati rice,milk,saffron",
+      "rating":"4.8"
+    },
+    { 
+      "id":"3",
+      "img_food":"https://www.thecountrycook.net/wp-content/uploads/2022/05/thumbnail-Blueberry-Cheesecake-scaled.jpg",
+      "name_food":"Blueberry Cheesecake Recipe",
+      "describe":"Want to please a special person on a special occasion? This Continental recipe is a perfect dessert to prepare for your loved ones. On the occasion of Father's day treat your Dad with something drool worthy and we bet he will love this awesome surprise.",
+      "ingrediants":" cream cheese,milk,sugar,lime juice,milk,butter",
+      "rating":"4.9"
+    }
+    ]
+  }
 ]
