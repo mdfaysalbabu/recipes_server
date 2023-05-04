@@ -4,9 +4,9 @@
     "img": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/07/18/Pictures/_fceeca9c-8a4c-11e8-a23e-bc16ac6b2c17.jpg",
     "name": "Saransh Goila",
     "recipes": "3",
-    "likes": "5000",
+    "likes": "10000",
     "bio":"Saransh Goila is a celebrity Indian chef, food journalist, TV show host and entrepreneur. He became the winner of the Food Food Maha Challenge and founded the popular restaurant chain “Goila Butter Chicken” in Mumbai",
-    "experience": "6 year",
+    "experience": "7 year",
     "allrecipes": [
       {
         "id": "1",
@@ -38,10 +38,10 @@
     "id": "2",
     "img": "https://static.toiimg.com/thumb.cms?msid=20600625&height=600&width=600",
     "name": "ripudaman handa",
-    "likes": "5",
+    "likes": "5000",
     "bio":"The winner of Master Chef Season 3, Ripu Daman Handa is a Delhi based gym trainer. He was the youngest of all the contestants in the show.",
     "experience": "10 year",
-    "recipes": "4",
+    "recipes": "3",
     "allrecipes":[
       { 
       "id":"1",
@@ -75,7 +75,7 @@
     "name": "Pawan Bisht",
     "experience": "8 year",
     "bio":"Chef Pawan Bisht:- I have been working in this industry since 2007 and I think the industry has evolved a lot from what it was back then.",
-    "likes": "5",
+    "likes": "7000",
     "recipes": "3",
     "allrecipes":[
       { 
@@ -110,7 +110,7 @@
     "img": "https://dc-cdn.s3-ap-southeast-1.amazonaws.com/b9d298ddd8744fc74577744e3a0644619891ce66-tc-img-preview.jpg",
     "experience": "9 year",
     "bio":"Ranveer Brar is an Indian celebrity chef, restaurateur, food columnist, author, and TV show judge. He has appeared as a judge in three seasons (seasons 4, 6 & 7) of the cooking reality TV show MasterChef India",
-    "likes": "60",
+    "likes": "6000",
     "recipes": "3",
     "allrecipes":[
       { 
@@ -144,8 +144,8 @@
     "img": "https://www.dailypioneer.com/uploads/2018/story/images/big/229384_Untitled-13.jpg",
     "name": "Rakesh Sethi",
     "experience": "12 year",
-    "likes": "60",
-    "recipes": "4",
+    "likes": "8000",
+    "recipes": "3",
     "bio":"Sethi passed out from Institute of Hotel Management, Pusa in 1982 and began his culinary career as a Hotel corp of India unit chef.",
     "allrecipes":[
       { 
@@ -180,8 +180,8 @@
     "name": "Shipra Khannai",
     "experience": "6 year",
     "bio":"Chef Shipra Khanna's age is 41 as of 2022. Chef Shipra Khanna's place of birth is Shimla, Himachal Pradesh, India. Chef Shipra Khanna's zodiac sign is Scorpio.",
-    "likes": "60",
-    "recipes": "5",
+    "likes": "9000",
+    "recipes": "3",
     "allrecipes":[
       { 
       "id":"1",
@@ -205,7 +205,7 @@
       "name_food":"Blueberry Cheesecake Recipe",
       "describe":"Want to please a special person on a special occasion? This Continental recipe is a perfect dessert to prepare for your loved ones. On the occasion of Father's day treat your Dad with something drool worthy and we bet he will love this awesome surprise.",
       "ingrediants":" cream cheese,milk,sugar,lime juice,milk,butter",
-      "rating":"4.9"
+      "rating":"4.8"
     }
     ]
   }
